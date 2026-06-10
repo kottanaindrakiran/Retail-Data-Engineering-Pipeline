@@ -121,6 +121,3 @@ To comply with data privacy standards, personally identifiable information (PII)
 6. Transaction dates natively exist as either Excel serial integers or string arrays formatted as "MM-DD-YYYY".
 7. The downstream Power BI dashboard is designed to natively ingest the flattened `powerbi_dataset.xlsx` using standard relational Star Schema models.
 
-## Author
-
-**[Your Name]** | [LinkedIn Profile URL] | [GitHub Profile URL]
